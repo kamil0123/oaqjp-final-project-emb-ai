@@ -1,10 +1,10 @@
 # Create project virtual environment
 1. create
 ```bash
-python3 -m venv env-01.venv
+python3.11 -m venv env311.venv
 ```
 2. activate it
 ```bash
-source env-01.venv/bin/activate
+source env311.venv/bin/activate
 ```
 
